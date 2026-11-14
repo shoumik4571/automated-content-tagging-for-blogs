@@ -5,22 +5,23 @@ Domain        : Artificial Intelligence (Multi-Label NLP & Editorial Workflow)
 Author        : Shoumik Aggarwal
 ================================================================================
 
-1. LIVE WORKING PROJECT LINKS
+1. PUBLIC WORKING PROJECT LINKS (ACCESSIBLE FROM ANYWHERE ON THE INTERNET)
 --------------------------------------------------------------------------------
-• Primary Interactive Web Studio (Talverin Next.js 15 + React 19 + Tailwind v4):
-  Local Live Studio URL : http://localhost:3000
-  (Features built-in standalone browser inference engine in `talverin-ui/lib/offline-engine.ts`
-   PLUS live FastAPI connection — works 100% standalone on Vercel / GitHub Pages or locally!)
+• LIVE WORKING WEB APP URL (24/7 Cloud Hosted — Talverin Next.js 15 Studio):
+  https://shoumik4571.github.io/automated-content-tagging-for-blogs/
 
-• FastAPI Multi-Label ML Backend & Interactive Swagger OpenAPI UI:
-  Live API URL          : http://127.0.0.1:8000
-  Swagger Docs URL      : http://127.0.0.1:8000/docs
-
-• Streamlit Interactive Python Workbench:
-  Streamlit URL         : http://localhost:8501
+• PUBLIC GITHUB REPOSITORY (Full Source Code, Models, Notebooks & Reports):
+  https://github.com/shoumik4571/automated-content-tagging-for-blogs
 
 
-2. QUICK-START COMMANDS (REPRODUCE OR RUN LOCALLY IN <60 SECONDS)
+2. LOCAL DEVELOPMENT & API ENDPOINTS (WHEN RUNNING LOCALLY)
+--------------------------------------------------------------------------------
+• Talverin Next.js 15 Editorial Studio : http://localhost:3000
+• FastAPI REST Backend & Swagger UI    : http://127.0.0.1:8000/docs
+• Streamlit Interactive Workbench      : http://localhost:8501
+
+
+3. QUICK-START COMMANDS (REPRODUCE OR RUN LOCALLY IN <60 SECONDS)
 --------------------------------------------------------------------------------
 A) Reproduce Data Curation, Deduplication & Multi-Model Training Pipeline:
    cd Source_Code
@@ -38,11 +39,11 @@ C) Or Launch the Single-Command Streamlit Editorial Workbench:
    --> Open http://localhost:8501
 
 
-3. FOLDER CONTENTS (MINOR PROJECT SUBMISSION ARCHIVE)
+4. FOLDER CONTENTS (MINOR PROJECT SUBMISSION ARCHIVE)
 --------------------------------------------------------------------------------
 • Automated_Content_Tagging_Presentation.pptx : 12-Slide Executive Presentation (PPT)
 • Automated_Content_Tagging_Report.pdf        : Full Technical Evaluation Report (PDF)
-• LIVE_PROJECT_LINKS.txt                      : Live Working Project Links & Run Guide
+• LIVE_PROJECT_LINKS.txt                      : Public Live URL, GitHub Repo & Run Guide
 • Source_Code/                                : Complete Python ML Pipeline, Dataset,
                                                 Taxonomy, Jupyter Notebook, FastAPI Server,
                                                 Streamlit App, and Talverin Next.js 15 UI.
