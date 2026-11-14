@@ -1,0 +1,414 @@
+{
+  "title_weighting_ablation": {
+    "val_micro_f1_title_1x": 0.9611,
+    "val_micro_f1_title_2x": 0.9714,
+    "val_macro_f1_title_1x": 0.9716,
+    "val_macro_f1_title_2x": 0.9782,
+    "improvement_delta_micro": 0.0103,
+    "conclusion": "Giving blog titles 2x weight improves validation Micro-F1 and Macro-F1 because article bodies often include incidental comparisons to other tools, whereas titles anchor the primary subjects."
+  },
+  "best_global_threshold": 0.55,
+  "per_tag_thresholds": {
+    "Python": {
+      "threshold": 0.35,
+      "val_support": 26,
+      "tuned": true
+    },
+    "Machine Learning": {
+      "threshold": 0.35,
+      "val_support": 18,
+      "tuned": true
+    },
+    "Deep Learning": {
+      "threshold": 0.35,
+      "val_support": 9,
+      "tuned": true
+    },
+    "API Development": {
+      "threshold": 0.55,
+      "val_support": 15,
+      "tuned": true
+    },
+    "Application Security": {
+      "threshold": 0.3,
+      "val_support": 11,
+      "tuned": true
+    },
+    "Data Engineering": {
+      "threshold": 0.6,
+      "val_support": 11,
+      "tuned": true
+    },
+    "Cloud & DevOps": {
+      "threshold": 0.7,
+      "val_support": 12,
+      "tuned": true
+    },
+    "Frontend Web Development": {
+      "threshold": 0.3,
+      "val_support": 8,
+      "tuned": true
+    },
+    "MLOps": {
+      "threshold": 0.35,
+      "val_support": 9,
+      "tuned": true
+    },
+    "Natural Language Processing": {
+      "threshold": 0.5,
+      "val_support": 14,
+      "tuned": true
+    },
+    "Quantum Computing": {
+      "threshold": 0.55,
+      "val_support": 2,
+      "tuned": false
+    },
+    "WebAssembly": {
+      "threshold": 0.55,
+      "val_support": 2,
+      "tuned": false
+    }
+  },
+  "threshold_sweep": [
+    {
+      "threshold": 0.25,
+      "val_micro_f1": 0.8831,
+      "val_macro_f1": 0.9019,
+      "false_positives": 35,
+      "missed_tags_fn": 1,
+      "no_tag_above_threshold_pct": 1.3,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 2.7
+    },
+    {
+      "threshold": 0.3,
+      "val_micro_f1": 0.9283,
+      "val_macro_f1": 0.9423,
+      "false_positives": 20,
+      "missed_tags_fn": 1,
+      "no_tag_above_threshold_pct": 1.3,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 2.7
+    },
+    {
+      "threshold": 0.35,
+      "val_micro_f1": 0.9577,
+      "val_macro_f1": 0.9672,
+      "false_positives": 11,
+      "missed_tags_fn": 1,
+      "no_tag_above_threshold_pct": 1.3,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 2.7
+    },
+    {
+      "threshold": 0.4,
+      "val_micro_f1": 0.9611,
+      "val_macro_f1": 0.9701,
+      "false_positives": 10,
+      "missed_tags_fn": 1,
+      "no_tag_above_threshold_pct": 1.3,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 2.7
+    },
+    {
+      "threshold": 0.45,
+      "val_micro_f1": 0.9645,
+      "val_macro_f1": 0.9732,
+      "false_positives": 9,
+      "missed_tags_fn": 1,
+      "no_tag_above_threshold_pct": 1.3,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 2.7
+    },
+    {
+      "threshold": 0.5,
+      "val_micro_f1": 0.9714,
+      "val_macro_f1": 0.9782,
+      "false_positives": 7,
+      "missed_tags_fn": 1,
+      "no_tag_above_threshold_pct": 1.3,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 2.7
+    },
+    {
+      "threshold": 0.55,
+      "val_micro_f1": 0.9749,
+      "val_macro_f1": 0.9807,
+      "false_positives": 6,
+      "missed_tags_fn": 1,
+      "no_tag_above_threshold_pct": 1.3,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 2.7
+    },
+    {
+      "threshold": 0.6,
+      "val_micro_f1": 0.9747,
+      "val_macro_f1": 0.9813,
+      "false_positives": 5,
+      "missed_tags_fn": 2,
+      "no_tag_above_threshold_pct": 1.3,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 2.7
+    },
+    {
+      "threshold": 0.65,
+      "val_micro_f1": 0.9745,
+      "val_macro_f1": 0.9808,
+      "false_positives": 4,
+      "missed_tags_fn": 3,
+      "no_tag_above_threshold_pct": 1.3,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 2.7
+    },
+    {
+      "threshold": 0.7,
+      "val_micro_f1": 0.9706,
+      "val_macro_f1": 0.9781,
+      "false_positives": 3,
+      "missed_tags_fn": 5,
+      "no_tag_above_threshold_pct": 1.3,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 2.7
+    },
+    {
+      "threshold": 0.75,
+      "val_micro_f1": 0.9394,
+      "val_macro_f1": 0.9491,
+      "false_positives": 3,
+      "missed_tags_fn": 13,
+      "no_tag_above_threshold_pct": 4.0,
+      "short_draft_pct": 2.7,
+      "routed_to_editor_review_pct": 4.0
+    }
+  ],
+  "test_model_comparison": [
+    {
+      "model": "Keyword & Alias Matcher (Baseline)",
+      "micro_f1": 0.7532,
+      "macro_f1": 0.7982,
+      "verified_complete_micro_f1": 0.7601,
+      "precision_at_3": 0.5289,
+      "recall_at_3": 0.9067,
+      "auto_tagged_coverage_pct": 86.7,
+      "routed_to_review_pct": 13.3,
+      "inference_ms_per_post": 0.4
+    },
+    {
+      "model": "TF-IDF + OvR LogReg (Title 1x)",
+      "micro_f1": 0.9195,
+      "macro_f1": 0.9228,
+      "verified_complete_micro_f1": 0.9398,
+      "precision_at_3": 0.5867,
+      "recall_at_3": 0.9867,
+      "auto_tagged_coverage_pct": 86.7,
+      "routed_to_review_pct": 13.3,
+      "inference_ms_per_post": 0.12
+    },
+    {
+      "model": "TF-IDF + OvR LogReg (Title 2x)",
+      "micro_f1": 0.9425,
+      "macro_f1": 0.943,
+      "verified_complete_micro_f1": 0.9624,
+      "precision_at_3": 0.5867,
+      "recall_at_3": 0.9933,
+      "auto_tagged_coverage_pct": 86.7,
+      "routed_to_review_pct": 13.3,
+      "inference_ms_per_post": 0.13
+    },
+    {
+      "model": "TF-IDF + OvR LogReg (Title 2x + Per-Tag Thresholds)",
+      "micro_f1": 0.9283,
+      "macro_f1": 0.9315,
+      "verified_complete_micro_f1": 0.9481,
+      "precision_at_3": 0.5867,
+      "recall_at_3": 0.9933,
+      "auto_tagged_coverage_pct": 86.7,
+      "routed_to_review_pct": 13.3,
+      "inference_ms_per_post": 0.13
+    },
+    {
+      "model": "Sentence-Transformer (all-MiniLM-L6-v2) + Chunking",
+      "micro_f1": 0.9407,
+      "macro_f1": 0.946,
+      "verified_complete_micro_f1": 0.96,
+      "precision_at_3": 0.5911,
+      "recall_at_3": 1.0,
+      "auto_tagged_coverage_pct": 85.3,
+      "routed_to_review_pct": 14.7,
+      "inference_ms_per_post": 13.05
+    }
+  ],
+  "frequency_tier_summary": [
+    {
+      "frequency_tier": "High Frequency (>=90 posts)",
+      "num_tags": 4,
+      "tags_included": [
+        "Python",
+        "Machine Learning",
+        "API Development",
+        "Data Engineering"
+      ],
+      "mean_tfidf_f1": 0.9364,
+      "mean_sbert_f1": 0.9295
+    },
+    {
+      "frequency_tier": "Low/Niche (<15 posts)",
+      "num_tags": 2,
+      "tags_included": [
+        "Quantum Computing",
+        "WebAssembly"
+      ],
+      "mean_tfidf_f1": 1.0,
+      "mean_sbert_f1": 1.0
+    },
+    {
+      "frequency_tier": "Medium Frequency (15-89 posts)",
+      "num_tags": 6,
+      "tags_included": [
+        "Deep Learning",
+        "Application Security",
+        "Cloud & DevOps",
+        "Frontend Web Development",
+        "MLOps",
+        "Natural Language Processing"
+      ],
+      "mean_tfidf_f1": 0.9054,
+      "mean_sbert_f1": 0.9391
+    }
+  ],
+  "per_tag_metrics": [
+    {
+      "tag": "Python",
+      "total_corpus_posts": 151,
+      "test_support": 27,
+      "frequency_tier": "High Frequency (>=90 posts)",
+      "tuned_threshold": 0.35,
+      "tfidf_precision": 0.963,
+      "tfidf_recall": 0.963,
+      "tfidf_f1": 0.963,
+      "semantic_sbert_f1": 0.9455
+    },
+    {
+      "tag": "Machine Learning",
+      "total_corpus_posts": 116,
+      "test_support": 19,
+      "frequency_tier": "High Frequency (>=90 posts)",
+      "tuned_threshold": 0.35,
+      "tfidf_precision": 0.9048,
+      "tfidf_recall": 1.0,
+      "tfidf_f1": 0.95,
+      "semantic_sbert_f1": 0.9744
+    },
+    {
+      "tag": "Deep Learning",
+      "total_corpus_posts": 63,
+      "test_support": 7,
+      "frequency_tier": "Medium Frequency (15-89 posts)",
+      "tuned_threshold": 0.35,
+      "tfidf_precision": 1.0,
+      "tfidf_recall": 0.8571,
+      "tfidf_f1": 0.9231,
+      "semantic_sbert_f1": 0.9333
+    },
+    {
+      "tag": "API Development",
+      "total_corpus_posts": 99,
+      "test_support": 11,
+      "frequency_tier": "High Frequency (>=90 posts)",
+      "tuned_threshold": 0.55,
+      "tfidf_precision": 0.8333,
+      "tfidf_recall": 0.9091,
+      "tfidf_f1": 0.8696,
+      "semantic_sbert_f1": 0.8696
+    },
+    {
+      "tag": "Application Security",
+      "total_corpus_posts": 76,
+      "test_support": 8,
+      "frequency_tier": "Medium Frequency (15-89 posts)",
+      "tuned_threshold": 0.3,
+      "tfidf_precision": 0.8,
+      "tfidf_recall": 1.0,
+      "tfidf_f1": 0.8889,
+      "semantic_sbert_f1": 0.8889
+    },
+    {
+      "tag": "Data Engineering",
+      "total_corpus_posts": 90,
+      "test_support": 14,
+      "frequency_tier": "High Frequency (>=90 posts)",
+      "tuned_threshold": 0.6,
+      "tfidf_precision": 1.0,
+      "tfidf_recall": 0.9286,
+      "tfidf_f1": 0.963,
+      "semantic_sbert_f1": 0.9286
+    },
+    {
+      "tag": "Cloud & DevOps",
+      "total_corpus_posts": 87,
+      "test_support": 13,
+      "frequency_tier": "Medium Frequency (15-89 posts)",
+      "tuned_threshold": 0.7,
+      "tfidf_precision": 1.0,
+      "tfidf_recall": 0.7692,
+      "tfidf_f1": 0.8696,
+      "semantic_sbert_f1": 0.96
+    },
+    {
+      "tag": "Frontend Web Development",
+      "total_corpus_posts": 67,
+      "test_support": 11,
+      "frequency_tier": "Medium Frequency (15-89 posts)",
+      "tuned_threshold": 0.3,
+      "tfidf_precision": 0.9167,
+      "tfidf_recall": 1.0,
+      "tfidf_f1": 0.9565,
+      "semantic_sbert_f1": 1.0
+    },
+    {
+      "tag": "MLOps",
+      "total_corpus_posts": 60,
+      "test_support": 11,
+      "frequency_tier": "Medium Frequency (15-89 posts)",
+      "tuned_threshold": 0.35,
+      "tfidf_precision": 1.0,
+      "tfidf_recall": 0.9091,
+      "tfidf_f1": 0.9524,
+      "semantic_sbert_f1": 0.9524
+    },
+    {
+      "tag": "Natural Language Processing",
+      "total_corpus_posts": 82,
+      "test_support": 10,
+      "frequency_tier": "Medium Frequency (15-89 posts)",
+      "tuned_threshold": 0.5,
+      "tfidf_precision": 0.8889,
+      "tfidf_recall": 0.8,
+      "tfidf_f1": 0.8421,
+      "semantic_sbert_f1": 0.9
+    },
+    {
+      "tag": "Quantum Computing",
+      "total_corpus_posts": 8,
+      "test_support": 1,
+      "frequency_tier": "Low/Niche (<15 posts)",
+      "tuned_threshold": 0.55,
+      "tfidf_precision": 1.0,
+      "tfidf_recall": 1.0,
+      "tfidf_f1": 1.0,
+      "semantic_sbert_f1": 1.0
+    },
+    {
+      "tag": "WebAssembly",
+      "total_corpus_posts": 8,
+      "test_support": 1,
+      "frequency_tier": "Low/Niche (<15 posts)",
+      "tuned_threshold": 0.55,
+      "tfidf_precision": 1.0,
+      "tfidf_recall": 1.0,
+      "tfidf_f1": 1.0,
+      "semantic_sbert_f1": 1.0
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "approved_tags": [
+    {
+      "tag": "Python",
+      "definition": "Articles focusing on the Python programming language, standard library, packaging, typing, and core language idioms.",
+      "examples": [
+        "Mastering Python Generators and Iterators",
+        "Understanding Asyncio and Concurrency in Python 3"
+      ],
+      "aliases": ["python3", "py", "cpython", "python-programming", "pythonic", "pip", "virtualenv"]
+    },
+    {
+      "tag": "Machine Learning",
+      "definition": "Posts covering supervised and unsupervised learning algorithms, feature engineering, model evaluation, and tabular ML.",
+      "examples": [
+        "Tuning Gradient Boosted Trees for Tabular Data",
+        "Cross-Validation Strategies for Imbalanced Datasets"
+      ],
+      "aliases": ["ml", "machine-learning", "scikit-learn", "sklearn", "xgboost", "random-forest", "supervised-learning", "predictive-modeling"]
+    },
+    {
+      "tag": "Deep Learning",
+      "definition": "Content about neural networks, transformers, CNNs, RNNs, embeddings, PyTorch, TensorFlow, and representation learning.",
+      "examples": [
+        "Fine-Tuning Sentence Transformers for Semantic Search",
+        "Training Convolutional Neural Networks with PyTorch"
+      ],
+      "aliases": ["dl", "deep-learning", "neural-networks", "pytorch", "tensorflow", "transformers", "bert", "embeddings", "llm"]
+    },
+    {
+      "tag": "API Development",
+      "definition": "Designing, building, documenting, and testing web APIs including REST, GraphQL, FastAPI, Flask, and webhook integrations.",
+      "examples": [
+        "Building High-Performance REST APIs with FastAPI",
+        "Idempotency and Pagination Patterns in Web APIs"
+      ],
+      "aliases": ["api", "rest-api", "restful", "fastapi", "flask", "graphql", "endpoints", "openapi", "swagger", "microservices"]
+    },
+    {
+      "tag": "Application Security",
+      "definition": "Securing web applications and APIs against vulnerabilities, authentication, OAuth2, JWT, encryption, and OWASP best practices.",
+      "examples": [
+        "Hardening OAuth2 and JWT Authentication in Production",
+        "Preventing SQL Injection and XSS in Modern Web Apps"
+      ],
+      "aliases": ["appsec", "security", "cybersecurity", "infosec", "oauth", "jwt", "authentication", "owasp", "encryption", "vulnerability"]
+    },
+    {
+      "tag": "Data Engineering",
+      "definition": "Data pipelines, ETL/ELT workflows, data warehouses, streaming architectures, Spark, Airflow, and SQL optimization.",
+      "examples": [
+        "Orchestrating Incremental ETL Pipelines with Apache Airflow",
+        "Optimizing Partitioning and Indexing in PostgreSQL"
+      ],
+      "aliases": ["data-pipelines", "etl", "elt", "airflow", "spark", "sql", "postgresql", "data-warehouse", "kafka", "dbt"]
+    },
+    {
+      "tag": "Cloud & DevOps",
+      "definition": "Containerization, CI/CD pipelines, Kubernetes, Docker, infrastructure as code, cloud deployment, and observability.",
+      "examples": [
+        "Zero-Downtime Deployments with Docker and Kubernetes",
+        "Automating CI/CD Workflows with GitHub Actions"
+      ],
+      "aliases": ["devops", "cloud", "docker", "kubernetes", "k8s", "ci-cd", "aws", "terraform", "containers", "monitoring"]
+    },
+    {
+      "tag": "Frontend Web Development",
+      "definition": "Browser-side engineering including React, TypeScript, CSS architecture, state management, accessibility, and web performance.",
+      "examples": [
+        "Optimizing React Rendering Performance with Memoization",
+        "Accessible Design Systems with Modern CSS Grid"
+      ],
+      "aliases": ["frontend", "front-end", "react", "javascript", "typescript", "css", "html", "ui", "web-perf", "dom"]
+    },
+    {
+      "tag": "MLOps",
+      "definition": "Deploying, monitoring, versioning, and governing machine learning models in production environments.",
+      "examples": [
+        "Detecting Data Drift and Concept Drift in Production ML",
+        "Model Registry and Serving Patterns with MLflow"
+      ],
+      "aliases": ["ml-ops", "model-deployment", "model-monitoring", "mlflow", "feature-store", "data-drift", "model-serving"]
+    },
+    {
+      "tag": "Natural Language Processing",
+      "definition": "Text processing, tokenization, sentiment analysis, named entity recognition, topic modeling, and text classification.",
+      "examples": [
+        "Multi-Label Text Classification with TF-IDF and Logistic Regression",
+        "Building Domain-Specific Named Entity Recognition Pipelines"
+      ],
+      "aliases": ["nlp", "text-mining", "tokenization", "sentiment-analysis", "ner", "text-classification", "spacy", "tfidf"]
+    },
+    {
+      "tag": "Quantum Computing",
+      "definition": "Niche topic covering quantum gates, qubits, Qiskit, quantum annealing, and variational quantum eigensolvers.",
+      "examples": [
+        "Simulating Bell States and Quantum Teleportation with Qiskit"
+      ],
+      "aliases": ["quantum", "qubits", "qiskit"]
+    },
+    {
+      "tag": "WebAssembly",
+      "definition": "Niche topic covering Wasm bytecode, Rust-to-Wasm compilation, and near-native execution in the browser.",
+      "examples": [
+        "Compiling Rust Image Filters to WebAssembly"
+      ],
+      "aliases": ["wasm", "web-assembly"]
+    }
+  ],
+  "min_examples_for_reliable_evaluation": 15
+}

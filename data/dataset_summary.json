@@ -1,0 +1,127 @@
+{
+  "total_posts": 500,
+  "unique_clusters": 468,
+  "republished_duplicates_grouped": 32,
+  "splits": {
+    "train": 350,
+    "val": 75,
+    "test": 75
+  },
+  "held_out_reviewer_audit": {
+    "sample_size": 50,
+    "audit_file": "data/held_out_reviewer_sample.csv",
+    "posts_with_missing_historical_tags": 3,
+    "missing_label_rate_pct": 6.0,
+    "note": "Historical author labels occasionally omit secondary tags (e.g., tagging 'Python' and 'API Development' but omitting 'Application Security')."
+  },
+  "tag_distribution": [
+    {
+      "tag": "Python",
+      "total_posts": 151,
+      "train_posts": 98,
+      "val_posts": 26,
+      "test_posts": 27,
+      "reliable_for_evaluation": true,
+      "status_note": "Sufficient examples"
+    },
+    {
+      "tag": "Machine Learning",
+      "total_posts": 116,
+      "train_posts": 79,
+      "val_posts": 18,
+      "test_posts": 19,
+      "reliable_for_evaluation": true,
+      "status_note": "Sufficient examples"
+    },
+    {
+      "tag": "Deep Learning",
+      "total_posts": 63,
+      "train_posts": 47,
+      "val_posts": 9,
+      "test_posts": 7,
+      "reliable_for_evaluation": true,
+      "status_note": "Sufficient examples"
+    },
+    {
+      "tag": "API Development",
+      "total_posts": 99,
+      "train_posts": 73,
+      "val_posts": 15,
+      "test_posts": 11,
+      "reliable_for_evaluation": true,
+      "status_note": "Sufficient examples"
+    },
+    {
+      "tag": "Application Security",
+      "total_posts": 76,
+      "train_posts": 57,
+      "val_posts": 11,
+      "test_posts": 8,
+      "reliable_for_evaluation": true,
+      "status_note": "Sufficient examples"
+    },
+    {
+      "tag": "Data Engineering",
+      "total_posts": 90,
+      "train_posts": 65,
+      "val_posts": 11,
+      "test_posts": 14,
+      "reliable_for_evaluation": true,
+      "status_note": "Sufficient examples"
+    },
+    {
+      "tag": "Cloud & DevOps",
+      "total_posts": 87,
+      "train_posts": 62,
+      "val_posts": 12,
+      "test_posts": 13,
+      "reliable_for_evaluation": true,
+      "status_note": "Sufficient examples"
+    },
+    {
+      "tag": "Frontend Web Development",
+      "total_posts": 67,
+      "train_posts": 48,
+      "val_posts": 8,
+      "test_posts": 11,
+      "reliable_for_evaluation": true,
+      "status_note": "Sufficient examples"
+    },
+    {
+      "tag": "MLOps",
+      "total_posts": 60,
+      "train_posts": 40,
+      "val_posts": 9,
+      "test_posts": 11,
+      "reliable_for_evaluation": true,
+      "status_note": "Sufficient examples"
+    },
+    {
+      "tag": "Natural Language Processing",
+      "total_posts": 82,
+      "train_posts": 58,
+      "val_posts": 14,
+      "test_posts": 10,
+      "reliable_for_evaluation": true,
+      "status_note": "Sufficient examples"
+    },
+    {
+      "tag": "Quantum Computing",
+      "total_posts": 8,
+      "train_posts": 5,
+      "val_posts": 2,
+      "test_posts": 1,
+      "reliable_for_evaluation": false,
+      "status_note": "Too few examples (<15) for reliable standalone evaluation"
+    },
+    {
+      "tag": "WebAssembly",
+      "total_posts": 8,
+      "train_posts": 5,
+      "val_posts": 2,
+      "test_posts": 1,
+      "reliable_for_evaluation": false,
+      "status_note": "Too few examples (<15) for reliable standalone evaluation"
+    }
+  ]
+}

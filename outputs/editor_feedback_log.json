@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2026-11-14T16:40:12",
+    "post_id": "POST-1433",
+    "title": "Designing Idempotent REST APIs with FastAPI and Pydantic with Python and Application Security",
+    "word_count": 69,
+    "model_used": "sbert",
+    "suggested_tags": [
+      "API Development",
+      "Python",
+      "Application Security"
+    ],
+    "accepted_tags": [
+      "API Development",
+      "Python",
+      "Application Security"
+    ],
+    "rejected_tags": [],
+    "added_missing_tags": [],
+    "final_editor_approved_tags": [
+      "API Development",
+      "Python",
+      "Application Security"
+    ],
+    "flagged_for_review": false,
+    "editor_notes": "Confirmed Application Security tag which was missing from historical author tags."
+  },
+  {
+    "timestamp": "2026-11-14T16:42:05",
+    "post_id": "POST-1488",
+    "title": "WIP: Python FastAPI Notes",
+    "word_count": 10,
+    "model_used": "sbert",
+    "suggested_tags": [],
+    "accepted_tags": [],
+    "rejected_tags": [],
+    "added_missing_tags": [
+      "Python",
+      "API Development"
+    ],
+    "final_editor_approved_tags": [
+      "Python",
+      "API Development"
+    ],
+    "flagged_for_review": true,
+    "editor_notes": "Short stub draft (<15 words) routed to review; assigned provisional tags manually."
+  },
+  {
+    "timestamp": "2026-11-14T16:45:19",
+    "post_id": "POST-1420",
+    "title": "Orchestrating Incremental ETL Pipelines with Apache Airflow: Tuning Gradient Boosted Trees and XGBoost on Tabular Data",
+    "word_count": 176,
+    "model_used": "sbert",
+    "suggested_tags": [
+      "Data Engineering",
+      "Machine Learning"
+    ],
+    "accepted_tags": [
+      "Data Engineering",
+      "Machine Learning"
+    ],
+    "rejected_tags": [],
+    "added_missing_tags": [],
+    "final_editor_approved_tags": [
+      "Data Engineering",
+      "Machine Learning"
+    ],
+    "flagged_for_review": false,
+    "editor_notes": "Long multi-topic article; chunk pooling captured both ETL and XGBoost sections accurately."
+  }
+]

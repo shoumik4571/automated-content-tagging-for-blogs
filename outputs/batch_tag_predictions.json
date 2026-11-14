@@ -1,0 +1,2030 @@
+[
+  {
+    "post_id": "POST-1408",
+    "published_at": "2025-12-09",
+    "title": "Hyperparameter Optimization and Calibration for Predictive Models with MLOps and Cloud & DevOps",
+    "post_type": "standard",
+    "word_count": 170,
+    "historical_author_tags": [
+      "Cloud & DevOps",
+      "MLOps",
+      "Machine Learning"
+    ],
+    "suggested_tags": [
+      "MLOps",
+      "Machine Learning",
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "MLOps": 0.975,
+      "Machine Learning": 0.943,
+      "Cloud & DevOps": 0.912
+    },
+    "supporting_snippets": {
+      "MLOps": "Terraform state files track cloud infrastructure resources declaratively across AWS environments.",
+      "Machine Learning": "Gradient boosted decision trees like XGBoost excel on structured tabular datasets.",
+      "Cloud & DevOps": "Terraform state files track cloud infrastructure resources declaratively across AWS environments."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "MLOps",
+      "Machine Learning",
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1410",
+    "published_at": "2025-12-10",
+    "title": "Streaming Event Architectures with Apache Kafka and Spark: Infrastructure as Code Using Terraform Modules on AWS",
+    "post_type": "standard",
+    "word_count": 133,
+    "historical_author_tags": [
+      "Cloud & DevOps",
+      "Data Engineering"
+    ],
+    "suggested_tags": [
+      "Data Engineering",
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "Data Engineering": 0.94,
+      "Cloud & DevOps": 0.933
+    },
+    "supporting_snippets": {
+      "Data Engineering": "Apache Airflow DAGs schedule and monitor complex ETL workflows with retry policies and SLA alerts.",
+      "Cloud & DevOps": "Kubernetes deployments use readiness and liveness probes to route traffic only to healthy pods."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Data Engineering",
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1411",
+    "published_at": "2025-12-11",
+    "title": "Type-Safe Custom Hooks and Context Architecture in TypeScript: Comparing RESTful Endpoints and GraphQL Resolvers",
+    "post_type": "standard",
+    "word_count": 130,
+    "historical_author_tags": [
+      "API Development",
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Frontend Web Development",
+      "API Development"
+    ],
+    "model_scores": {
+      "Frontend Web Development": 0.963,
+      "API Development": 0.907
+    },
+    "supporting_snippets": {
+      "Frontend Web Development": "TypeScript strict mode catches null pointer errors across complex frontend UI component trees.",
+      "API Development": "FastAPI validates incoming JSON payloads automatically using Pydantic schemas and generates OpenAPI docs."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Frontend Web Development",
+      "API Development"
+    ]
+  },
+  {
+    "post_id": "POST-1412",
+    "published_at": "2025-12-12",
+    "title": "Memory Management and Garbage Collection in CPython",
+    "post_type": "standard",
+    "word_count": 89,
+    "historical_author_tags": [
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python"
+    ],
+    "model_scores": {
+      "Python": 0.99
+    },
+    "supporting_snippets": {
+      "Python": "Virtual environments and pip dependencies should be pinned for reproducible Python builds."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1413",
+    "published_at": "2025-12-13",
+    "title": "Packaging Python Libraries with pyproject.toml and Virtualenv: Cursor Pagination and Rate Limiting in Web APIs",
+    "post_type": "long_multi_topic",
+    "word_count": 248,
+    "historical_author_tags": [
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "API Development"
+    ],
+    "model_scores": {
+      "Python": 0.98,
+      "API Development": 0.935
+    },
+    "supporting_snippets": {
+      "Python": "CPython uses reference counting alongside a cyclic garbage collector to manage object lifecycles.",
+      "API Development": "FastAPI validates incoming JSON payloads automatically using Pydantic schemas and generates OpenAPI docs."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "API Development",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1414",
+    "published_at": "2025-12-14",
+    "title": "Cross-Validation Strategies for Imbalanced Classification with MLOps and Cloud & DevOps",
+    "post_type": "standard",
+    "word_count": 167,
+    "historical_author_tags": [
+      "Cloud & DevOps",
+      "MLOps",
+      "Machine Learning"
+    ],
+    "suggested_tags": [
+      "Machine Learning",
+      "MLOps",
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "Machine Learning": 0.955,
+      "MLOps": 0.948,
+      "Cloud & DevOps": 0.866
+    },
+    "supporting_snippets": {
+      "Machine Learning": "MLflow tracks model hyperparameters, evaluation artifacts, and serialized weights in a central registry.",
+      "MLOps": "Feature stores guarantee that online inference uses the exact same transformations as offline training.",
+      "Cloud & DevOps": "Terraform state files track cloud infrastructure resources declaratively across AWS environments."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Machine Learning",
+      "MLOps",
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1415",
+    "published_at": "2025-12-15",
+    "title": "Optimizing React Rendering Performance and State Management",
+    "post_type": "standard",
+    "word_count": 83,
+    "historical_author_tags": [
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Frontend Web Development"
+    ],
+    "model_scores": {
+      "Frontend Web Development": 0.955
+    },
+    "supporting_snippets": {
+      "Frontend Web Development": "Semantic HTML elements and ARIA attributes ensure keyboard navigation accessibility."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Frontend Web Development"
+    ]
+  },
+  {
+    "post_id": "POST-1416",
+    "published_at": "2025-12-16",
+    "title": "Mastering Python Generators and Async Iterators with API Development and Application Security",
+    "post_type": "standard",
+    "word_count": 189,
+    "historical_author_tags": [
+      "API Development",
+      "Application Security",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "API Development",
+      "Application Security"
+    ],
+    "model_scores": {
+      "Python": 0.977,
+      "API Development": 0.906,
+      "Application Security": 0.682
+    },
+    "supporting_snippets": {
+      "Python": "CPython uses reference counting alongside a cyclic garbage collector to manage object lifecycles.",
+      "API Development": "RESTful endpoints use standard HTTP status codes and cursor based pagination for large collections.",
+      "Application Security": "OWASP security guidelines recommend strict Content Security Policy headers to mitigate XSS attacks."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "API Development",
+      "Application Security"
+    ]
+  },
+  {
+    "post_id": "POST-1417",
+    "published_at": "2025-12-17",
+    "title": "Writing Clean Pythonic Code with Type Hints and Dataclasses: Text Normalization, Lemmatization, and Stopword Filtering",
+    "post_type": "semantic_paraphrase",
+    "word_count": 130,
+    "historical_author_tags": [
+      "Natural Language Processing",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Natural Language Processing",
+      "Python"
+    ],
+    "model_scores": {
+      "Natural Language Processing": 0.931,
+      "Python": 0.857
+    },
+    "supporting_snippets": {
+      "Natural Language Processing": "Subword tokenization handles rare morphological variants and out of vocabulary technical terms.",
+      "Python": "Scikit learn pipelines prevent data leakage during k fold cross validation and scaling."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Natural Language Processing",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1418",
+    "published_at": "2025-12-18",
+    "title": "Concurrency Patterns with Python Asyncio and Multiprocessing",
+    "post_type": "standard",
+    "word_count": 92,
+    "historical_author_tags": [
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python"
+    ],
+    "model_scores": {
+      "Python": 0.995
+    },
+    "supporting_snippets": {
+      "Python": "Type hints with typing and mypy help catch bugs before runtime in large Python codebases."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1419",
+    "published_at": "2025-12-18",
+    "title": "Comparing Random Forests and Logistic Regression Baselines with MLOps and Cloud & DevOps",
+    "post_type": "standard",
+    "word_count": 168,
+    "historical_author_tags": [
+      "Cloud & DevOps",
+      "MLOps",
+      "Machine Learning"
+    ],
+    "suggested_tags": [
+      "Machine Learning",
+      "MLOps",
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "Machine Learning": 0.974,
+      "MLOps": 0.973,
+      "Cloud & DevOps": 0.962
+    },
+    "supporting_snippets": {
+      "Machine Learning": "Feature importance and permutation tests reveal which predictors drive random forest splits.",
+      "MLOps": "Champion challenger model routing compares live business KPIs before promoting new serialized artifacts to production.",
+      "Cloud & DevOps": "Kubernetes deployments use readiness and liveness probes to route traffic only to healthy pods."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Machine Learning",
+      "MLOps",
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1420",
+    "published_at": "2025-12-19",
+    "title": "Orchestrating Incremental ETL Pipelines with Apache Airflow: Feature Engineering and Selection with Scikit-Learn Pipelines",
+    "post_type": "long_multi_topic",
+    "word_count": 227,
+    "historical_author_tags": [
+      "Data Engineering",
+      "Machine Learning"
+    ],
+    "suggested_tags": [
+      "Data Engineering",
+      "Machine Learning"
+    ],
+    "model_scores": {
+      "Data Engineering": 0.912,
+      "Machine Learning": 0.687
+    },
+    "supporting_snippets": {
+      "Data Engineering": "Apache Airflow DAGs schedule and monitor complex ETL workflows with retry policies and SLA alerts.",
+      "Machine Learning": "Gradient boosted decision trees like XGBoost excel on structured tabular datasets."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Data Engineering",
+      "Machine Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1421",
+    "published_at": "2025-12-24",
+    "title": "Orchestrating Incremental ETL Pipelines with Apache Airflow: Feature Engineering and Selection with Scikit-Learn Pipelines",
+    "post_type": "republished_duplicate",
+    "word_count": 233,
+    "historical_author_tags": [
+      "Data Engineering",
+      "Machine Learning"
+    ],
+    "suggested_tags": [
+      "Data Engineering",
+      "Machine Learning"
+    ],
+    "model_scores": {
+      "Data Engineering": 0.908,
+      "Machine Learning": 0.686
+    },
+    "supporting_snippets": {
+      "Data Engineering": "Apache Airflow DAGs schedule and monitor complex ETL workflows with retry policies and SLA alerts.",
+      "Machine Learning": "Gradient boosted decision trees like XGBoost excel on structured tabular datasets."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Data Engineering",
+      "Machine Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1422",
+    "published_at": "2025-12-20",
+    "title": "Cross-Validation Strategies for Imbalanced Classification",
+    "post_type": "semantic_paraphrase",
+    "word_count": 86,
+    "historical_author_tags": [
+      "Machine Learning"
+    ],
+    "suggested_tags": [
+      "Machine Learning"
+    ],
+    "model_scores": {
+      "Machine Learning": 0.976
+    },
+    "supporting_snippets": {
+      "Machine Learning": "Feature importance and permutation tests reveal which predictors drive random forest splits."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1423",
+    "published_at": "2025-12-21",
+    "title": "Memory Management and Garbage Collection in CPython: Tuning Gradient Boosted Trees and XGBoost on Tabular Data",
+    "post_type": "standard",
+    "word_count": 141,
+    "historical_author_tags": [
+      "Machine Learning",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "Machine Learning"
+    ],
+    "model_scores": {
+      "Python": 0.92,
+      "Machine Learning": 0.902
+    },
+    "supporting_snippets": {
+      "Python": "CPython uses reference counting alongside a cyclic garbage collector to manage object lifecycles.",
+      "Machine Learning": "Feature importance and permutation tests reveal which predictors drive random forest splits."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1424",
+    "published_at": "2025-12-22",
+    "title": "Context Managers and Decorators in Modern Python 3: Streaming Event Architectures with Apache Kafka and Spark",
+    "post_type": "standard",
+    "word_count": 141,
+    "historical_author_tags": [
+      "Data Engineering",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Data Engineering",
+      "Python"
+    ],
+    "model_scores": {
+      "Data Engineering": 0.903,
+      "Python": 0.892
+    },
+    "supporting_snippets": {
+      "Data Engineering": "Apache Airflow DAGs schedule and monitor complex ETL workflows with retry policies and SLA alerts.",
+      "Python": "Virtual environments and pip dependencies should be pinned for reproducible Python builds."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Data Engineering",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1425",
+    "published_at": "2025-12-23",
+    "title": "Feature Stores for Online and Offline Training Consistency",
+    "post_type": "standard",
+    "word_count": 87,
+    "historical_author_tags": [
+      "MLOps"
+    ],
+    "suggested_tags": [],
+    "model_scores": {},
+    "supporting_snippets": {},
+    "review_status": "Needs Editor Review (Low Confidence < Threshold)",
+    "final_editor_approved_tags": [
+      "MLOps"
+    ]
+  },
+  {
+    "post_id": "POST-1426",
+    "published_at": "2025-12-24",
+    "title": "Writing Clean Pythonic Code with Type Hints and Dataclasses: Cursor Pagination and Rate Limiting in Web APIs",
+    "post_type": "semantic_paraphrase",
+    "word_count": 139,
+    "historical_author_tags": [
+      "API Development",
+      "Python"
+    ],
+    "suggested_tags": [
+      "API Development",
+      "Python"
+    ],
+    "model_scores": {
+      "API Development": 0.919,
+      "Python": 0.915
+    },
+    "supporting_snippets": {
+      "API Development": "Swagger UI interactive documentation helps teams integrate with backend API routes.",
+      "Python": "Multi stage Dockerfiles strip build dependencies to produce lightweight, secure container images."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "API Development",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1427",
+    "published_at": "2025-12-25",
+    "title": "Packaging Python Libraries with pyproject.toml and Virtualenv: Data Warehouse Modeling with dbt and Dimensional Schemas",
+    "post_type": "standard",
+    "word_count": 136,
+    "historical_author_tags": [
+      "Data Engineering",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Data Engineering",
+      "Python"
+    ],
+    "model_scores": {
+      "Data Engineering": 0.931,
+      "Python": 0.866
+    },
+    "supporting_snippets": {
+      "Data Engineering": "Kafka event streams decouple data producers from downstream data warehouse consumers.",
+      "Python": "Virtual environments and pip dependencies should be pinned for reproducible Python builds."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Data Engineering",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1428",
+    "published_at": "2025-12-26",
+    "title": "Concurrency Patterns with Python Asyncio and Multiprocessing",
+    "post_type": "standard",
+    "word_count": 89,
+    "historical_author_tags": [
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "Data Engineering"
+    ],
+    "model_scores": {
+      "Python": 0.99,
+      "Data Engineering": 0.428
+    },
+    "supporting_snippets": {
+      "Python": "Virtual environments and pip dependencies should be pinned for reproducible Python builds.",
+      "Data Engineering": "Apache Spark processes partitioned Parquet files across distributed clusters for petabyte scale ETL."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "Data Engineering"
+    ]
+  },
+  {
+    "post_id": "POST-1429",
+    "published_at": "2025-12-27",
+    "title": "Concurrency Patterns with Python Asyncio and Multiprocessing: Idempotent Backfills in Distributed Data Pipelines",
+    "post_type": "standard",
+    "word_count": 134,
+    "historical_author_tags": [
+      "Data Engineering",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "Data Engineering"
+    ],
+    "model_scores": {
+      "Python": 0.949,
+      "Data Engineering": 0.927
+    },
+    "supporting_snippets": {
+      "Python": "Type hints with typing and mypy help catch bugs before runtime in large Python codebases.",
+      "Data Engineering": "Kafka event streams decouple data producers from downstream data warehouse consumers."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "Data Engineering"
+    ]
+  },
+  {
+    "post_id": "POST-1430",
+    "published_at": "2025-12-27",
+    "title": "Concurrency Patterns with Python Asyncio and Multiprocessing: Cross-Validation Strategies for Imbalanced Classification",
+    "post_type": "semantic_paraphrase",
+    "word_count": 120,
+    "historical_author_tags": [
+      "Python"
+    ],
+    "suggested_tags": [
+      "Machine Learning",
+      "Python"
+    ],
+    "model_scores": {
+      "Machine Learning": 0.953,
+      "Python": 0.903
+    },
+    "supporting_snippets": {
+      "Machine Learning": "Lazy evaluation via iterator protocols allows functions to yield one item at a time without allocating full lists in RAM.",
+      "Python": "Automated retraining pipelines trigger when validation scores degrade on recent labeled feedback."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Machine Learning",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1431",
+    "published_at": "2025-12-28",
+    "title": "Comparing RESTful Endpoints and GraphQL Resolvers",
+    "post_type": "standard",
+    "word_count": 81,
+    "historical_author_tags": [
+      "API Development"
+    ],
+    "suggested_tags": [
+      "API Development"
+    ],
+    "model_scores": {
+      "API Development": 0.97
+    },
+    "supporting_snippets": {
+      "API Development": "FastAPI validates incoming JSON payloads automatically using Pydantic schemas and generates OpenAPI docs."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "API Development"
+    ]
+  },
+  {
+    "post_id": "POST-1432",
+    "published_at": "2025-12-29",
+    "title": "Cross-Validation Strategies for Imbalanced Classification with Deep Learning and Natural Language Processing",
+    "post_type": "standard",
+    "word_count": 169,
+    "historical_author_tags": [
+      "Deep Learning",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "suggested_tags": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "model_scores": {
+      "Machine Learning": 0.968,
+      "Deep Learning": 0.933,
+      "Natural Language Processing": 0.907
+    },
+    "supporting_snippets": {
+      "Machine Learning": "Gradient boosted decision trees like XGBoost excel on structured tabular datasets.",
+      "Deep Learning": "PyTorch autograd builds dynamic computation graphs for backpropagation through neural networks.",
+      "Natural Language Processing": "Named Entity Recognition (NER) extracts structured organizations, locations, and product mentions from text."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "post_id": "POST-1433",
+    "published_at": "2025-12-30",
+    "title": "Concurrency Patterns with Python Asyncio and Multiprocessing: Hyperparameter Optimization and Calibration for Predictive Models",
+    "post_type": "standard",
+    "word_count": 137,
+    "historical_author_tags": [
+      "Machine Learning",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "Machine Learning"
+    ],
+    "model_scores": {
+      "Python": 0.938,
+      "Machine Learning": 0.872
+    },
+    "supporting_snippets": {
+      "Python": "Virtual environments and pip dependencies should be pinned for reproducible Python builds.",
+      "Machine Learning": "Gradient boosted decision trees like XGBoost excel on structured tabular datasets."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1434",
+    "published_at": "2025-12-31",
+    "title": "Core Web Vitals and Bundle Splitting in Modern JavaScript",
+    "post_type": "semantic_paraphrase",
+    "word_count": 83,
+    "historical_author_tags": [
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Frontend Web Development"
+    ],
+    "model_scores": {
+      "Frontend Web Development": 0.968
+    },
+    "supporting_snippets": {
+      "Frontend Web Development": "CI/CD pipelines run automated linters, unit tests, and container scans on every pull request."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Frontend Web Development"
+    ]
+  },
+  {
+    "post_id": "POST-1435",
+    "published_at": "2026-01-01",
+    "title": "Writing Clean Pythonic Code with Type Hints and Dataclasses with Machine Learning and MLOps",
+    "post_type": "long_multi_topic",
+    "word_count": 348,
+    "historical_author_tags": [
+      "MLOps",
+      "Machine Learning",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "Machine Learning",
+      "MLOps"
+    ],
+    "model_scores": {
+      "Python": 0.966,
+      "Machine Learning": 0.901,
+      "MLOps": 0.878
+    },
+    "supporting_snippets": {
+      "Python": "CPython uses reference counting alongside a cyclic garbage collector to manage object lifecycles.",
+      "Machine Learning": "MLflow tracks model hyperparameters, evaluation artifacts, and serialized weights in a central registry.",
+      "MLOps": "MLflow tracks model hyperparameters, evaluation artifacts, and serialized weights in a central registry."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "Machine Learning",
+      "MLOps"
+    ]
+  },
+  {
+    "post_id": "POST-1436",
+    "published_at": "2026-01-03",
+    "title": "Writing Clean Pythonic Code with Type Hints and Dataclasses with Machine Learning and MLOps",
+    "post_type": "republished_duplicate",
+    "word_count": 354,
+    "historical_author_tags": [
+      "MLOps",
+      "Machine Learning",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "Machine Learning",
+      "MLOps"
+    ],
+    "model_scores": {
+      "Python": 0.966,
+      "Machine Learning": 0.902,
+      "MLOps": 0.88
+    },
+    "supporting_snippets": {
+      "Python": "CPython uses reference counting alongside a cyclic garbage collector to manage object lifecycles.",
+      "Machine Learning": "MLflow tracks model hyperparameters, evaluation artifacts, and serialized weights in a central registry.",
+      "MLOps": "MLflow tracks model hyperparameters, evaluation artifacts, and serialized weights in a central registry."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "Machine Learning",
+      "MLOps"
+    ]
+  },
+  {
+    "post_id": "POST-1437",
+    "published_at": "2026-01-02",
+    "title": "Data Warehouse Modeling with dbt and Dimensional Schemas: Multi-Stage Docker Builds for Minimal Production Images",
+    "post_type": "standard",
+    "word_count": 133,
+    "historical_author_tags": [
+      "Cloud & DevOps",
+      "Data Engineering"
+    ],
+    "suggested_tags": [
+      "Data Engineering",
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "Data Engineering": 0.902,
+      "Cloud & DevOps": 0.89
+    },
+    "supporting_snippets": {
+      "Data Engineering": "Apache Airflow DAGs schedule and monitor complex ETL workflows with retry policies and SLA alerts.",
+      "Cloud & DevOps": "Terraform state files track cloud infrastructure resources declaratively across AWS environments."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Data Engineering",
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1438",
+    "published_at": "2026-01-03",
+    "title": "Hardening OAuth2 and JWT Authentication Flows",
+    "post_type": "standard",
+    "word_count": 82,
+    "historical_author_tags": [
+      "Application Security"
+    ],
+    "suggested_tags": [
+      "Application Security"
+    ],
+    "model_scores": {
+      "Application Security": 0.932
+    },
+    "supporting_snippets": {
+      "Application Security": "OAuth2 authorization code flows with PKCE protect access tokens in public web and mobile clients."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Application Security"
+    ]
+  },
+  {
+    "post_id": "POST-1439",
+    "published_at": "2026-01-04",
+    "title": "Optimizing React Rendering Performance and State Management: Cursor Pagination and Rate Limiting in Web APIs",
+    "post_type": "semantic_paraphrase",
+    "word_count": 137,
+    "historical_author_tags": [
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Frontend Web Development",
+      "API Development"
+    ],
+    "model_scores": {
+      "Frontend Web Development": 0.891,
+      "API Development": 0.685
+    },
+    "supporting_snippets": {
+      "Frontend Web Development": "Virtual DOM reconciliation diffs component subtrees to minimize expensive browser layout and paint cycles.",
+      "API Development": "FastAPI validates incoming JSON payloads automatically using Pydantic schemas and generates OpenAPI docs."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "API Development",
+      "Frontend Web Development"
+    ]
+  },
+  {
+    "post_id": "POST-1440",
+    "published_at": "2026-01-05",
+    "title": "Handling Missing Values and Leakage in Supervised Learning with MLOps and Cloud & DevOps",
+    "post_type": "standard",
+    "word_count": 174,
+    "historical_author_tags": [
+      "Cloud & DevOps",
+      "MLOps",
+      "Machine Learning"
+    ],
+    "suggested_tags": [
+      "MLOps",
+      "Machine Learning",
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "MLOps": 0.982,
+      "Machine Learning": 0.978,
+      "Cloud & DevOps": 0.841
+    },
+    "supporting_snippets": {
+      "MLOps": "Feature stores guarantee that online inference uses the exact same transformations as offline training.",
+      "Machine Learning": "Gradient boosted decision trees like XGBoost excel on structured tabular datasets.",
+      "Cloud & DevOps": "Declarative infrastructure provisioning eliminates configuration drift across staging and production cloud regions."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "MLOps",
+      "Machine Learning",
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1441",
+    "published_at": "2026-01-05",
+    "title": "Feature Engineering and Selection with Scikit-Learn Pipelines",
+    "post_type": "standard",
+    "word_count": 78,
+    "historical_author_tags": [
+      "Machine Learning"
+    ],
+    "suggested_tags": [
+      "Machine Learning"
+    ],
+    "model_scores": {
+      "Machine Learning": 0.934
+    },
+    "supporting_snippets": {
+      "Machine Learning": "Feature importance and permutation tests reveal which predictors drive random forest splits."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1442",
+    "published_at": "2026-01-06",
+    "title": "Core Web Vitals and Bundle Splitting in Modern JavaScript: Hardening OAuth2 and JWT Authentication Flows",
+    "post_type": "standard",
+    "word_count": 133,
+    "historical_author_tags": [
+      "Application Security",
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Frontend Web Development",
+      "Application Security"
+    ],
+    "model_scores": {
+      "Frontend Web Development": 0.928,
+      "Application Security": 0.775
+    },
+    "supporting_snippets": {
+      "Frontend Web Development": "React memoization hooks prevent unnecessary DOM re renders when parent component state updates.",
+      "Application Security": "JSON Web Tokens (JWT) must be verified with strong cryptographic signatures and short expiration times."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Frontend Web Development",
+      "Application Security"
+    ]
+  },
+  {
+    "post_id": "POST-1443",
+    "published_at": "2026-01-07",
+    "title": "Context Managers and Decorators in Modern Python 3: Idempotent Backfills in Distributed Data Pipelines",
+    "post_type": "long_multi_topic",
+    "word_count": 242,
+    "historical_author_tags": [
+      "Data Engineering",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "Data Engineering"
+    ],
+    "model_scores": {
+      "Python": 0.954,
+      "Data Engineering": 0.947
+    },
+    "supporting_snippets": {
+      "Python": "CPython uses reference counting alongside a cyclic garbage collector to manage object lifecycles.",
+      "Data Engineering": "Apache Airflow DAGs schedule and monitor complex ETL workflows with retry policies and SLA alerts."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "Data Engineering"
+    ]
+  },
+  {
+    "post_id": "POST-1444",
+    "published_at": "2026-01-08",
+    "title": "Idempotent Backfills in Distributed Data Pipelines",
+    "post_type": "standard",
+    "word_count": 86,
+    "historical_author_tags": [
+      "Data Engineering"
+    ],
+    "suggested_tags": [
+      "Data Engineering"
+    ],
+    "model_scores": {
+      "Data Engineering": 0.981
+    },
+    "supporting_snippets": {
+      "Data Engineering": "Apache Airflow DAGs schedule and monitor complex ETL workflows with retry policies and SLA alerts."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Data Engineering"
+    ]
+  },
+  {
+    "post_id": "POST-1445",
+    "published_at": "2026-01-09",
+    "title": "Optimizing React Rendering Performance and State Management: Designing Idempotent REST APIs with FastAPI and Pydantic",
+    "post_type": "standard",
+    "word_count": 143,
+    "historical_author_tags": [
+      "API Development",
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Frontend Web Development",
+      "API Development"
+    ],
+    "model_scores": {
+      "Frontend Web Development": 0.905,
+      "API Development": 0.893
+    },
+    "supporting_snippets": {
+      "Frontend Web Development": "TypeScript strict mode catches null pointer errors across complex frontend UI component trees.",
+      "API Development": "FastAPI validates incoming JSON payloads automatically using Pydantic schemas and generates OpenAPI docs."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Frontend Web Development",
+      "API Development"
+    ]
+  },
+  {
+    "post_id": "POST-1446",
+    "published_at": "2026-01-10",
+    "title": "Understanding Self-Attention and Layer Normalization in Neural Networks: Domain-Specific Named Entity Recognition and Tokenization",
+    "post_type": "standard",
+    "word_count": 133,
+    "historical_author_tags": [
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "suggested_tags": [
+      "Natural Language Processing",
+      "Deep Learning"
+    ],
+    "model_scores": {
+      "Natural Language Processing": 0.979,
+      "Deep Learning": 0.978
+    },
+    "supporting_snippets": {
+      "Natural Language Processing": "Named Entity Recognition (NER) extracts structured organizations, locations, and product mentions from text.",
+      "Deep Learning": "PyTorch autograd builds dynamic computation graphs for backpropagation through neural networks."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Natural Language Processing",
+      "Deep Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1447",
+    "published_at": "2026-01-11",
+    "title": "Building Asynchronous Webhook Consumers with Flask and FastAPI",
+    "post_type": "semantic_paraphrase",
+    "word_count": 83,
+    "historical_author_tags": [
+      "API Development"
+    ],
+    "suggested_tags": [
+      "API Development",
+      "Python"
+    ],
+    "model_scores": {
+      "API Development": 0.961,
+      "Python": 0.311
+    },
+    "supporting_snippets": {
+      "API Development": "Idempotency keys in HTTP request headers ensure that retrying a network timeout does not duplicate backend state mutations.",
+      "Python": "Idempotency keys in HTTP request headers ensure that retrying a network timeout does not duplicate backend state mutations."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "API Development",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1448",
+    "published_at": "2026-01-12",
+    "title": "Memory Management and Garbage Collection in CPython with Machine Learning and MLOps",
+    "post_type": "standard",
+    "word_count": 169,
+    "historical_author_tags": [
+      "MLOps",
+      "Machine Learning",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "MLOps",
+      "Machine Learning"
+    ],
+    "model_scores": {
+      "Python": 0.931,
+      "MLOps": 0.917,
+      "Machine Learning": 0.889
+    },
+    "supporting_snippets": {
+      "Python": "Virtual environments and pip dependencies should be pinned for reproducible Python builds.",
+      "MLOps": "Feature stores guarantee that online inference uses the exact same transformations as offline training.",
+      "Machine Learning": "Gradient boosted decision trees like XGBoost excel on structured tabular datasets."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "MLOps",
+      "Machine Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1449",
+    "published_at": "2026-01-13",
+    "title": "Multi-Stage Docker Builds for Minimal Production Images with API Development and Application Security",
+    "post_type": "standard",
+    "word_count": 176,
+    "historical_author_tags": [
+      "API Development",
+      "Application Security",
+      "Cloud & DevOps"
+    ],
+    "suggested_tags": [
+      "Cloud & DevOps",
+      "Application Security",
+      "API Development"
+    ],
+    "model_scores": {
+      "Cloud & DevOps": 0.942,
+      "Application Security": 0.934,
+      "API Development": 0.926
+    },
+    "supporting_snippets": {
+      "Cloud & DevOps": "Declarative infrastructure provisioning eliminates configuration drift across staging and production cloud regions.",
+      "Application Security": "JSON Web Tokens (JWT) must be verified with strong cryptographic signatures and short expiration times.",
+      "API Development": "RESTful endpoints use standard HTTP status codes and cursor based pagination for large collections."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Cloud & DevOps",
+      "Application Security",
+      "API Development"
+    ]
+  },
+  {
+    "post_id": "POST-1450",
+    "published_at": "2026-01-14",
+    "title": "Automating CI/CD Testing and Release Pipelines with GitHub Actions",
+    "post_type": "standard",
+    "word_count": 85,
+    "historical_author_tags": [
+      "Cloud & DevOps"
+    ],
+    "suggested_tags": [
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "Cloud & DevOps": 0.979
+    },
+    "supporting_snippets": {
+      "Cloud & DevOps": "Terraform state files track cloud infrastructure resources declaratively across AWS environments."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1451",
+    "published_at": "2026-01-16",
+    "title": "Automating CI/CD Testing and Release Pipelines with GitHub Actions",
+    "post_type": "republished_duplicate",
+    "word_count": 91,
+    "historical_author_tags": [
+      "Cloud & DevOps"
+    ],
+    "suggested_tags": [
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "Cloud & DevOps": 0.979
+    },
+    "supporting_snippets": {
+      "Cloud & DevOps": "Terraform state files track cloud infrastructure resources declaratively across AWS environments."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1452",
+    "published_at": "2026-01-14",
+    "title": "Hyperparameter Optimization and Calibration for Predictive Models with Deep Learning and Natural Language Processing",
+    "post_type": "semantic_paraphrase",
+    "word_count": 158,
+    "historical_author_tags": [
+      "Deep Learning",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "suggested_tags": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "model_scores": {
+      "Machine Learning": 0.953,
+      "Deep Learning": 0.937,
+      "Natural Language Processing": 0.837
+    },
+    "supporting_snippets": {
+      "Machine Learning": "Gradient boosted decision trees like XGBoost excel on structured tabular datasets.",
+      "Deep Learning": "Low rank adapters freeze pretrained backbone weights while optimizing small bottleneck matrices during transfer learning.",
+      "Natural Language Processing": "Stratified k fold partitioning and isotonic probability calibration improve out of sample generalization on skewed targets."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "post_id": "POST-1453",
+    "published_at": "2026-01-15",
+    "title": "Memory Management and Garbage Collection in CPython: Domain-Specific Named Entity Recognition and Tokenization",
+    "post_type": "standard",
+    "word_count": 133,
+    "historical_author_tags": [
+      "Natural Language Processing",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "Natural Language Processing"
+    ],
+    "model_scores": {
+      "Python": 0.927,
+      "Natural Language Processing": 0.905
+    },
+    "supporting_snippets": {
+      "Python": "CPython uses reference counting alongside a cyclic garbage collector to manage object lifecycles.",
+      "Natural Language Processing": "Named Entity Recognition (NER) extracts structured organizations, locations, and product mentions from text."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "post_id": "POST-1454",
+    "published_at": "2026-01-16",
+    "title": "Overcoming Vanishing Gradients in Deep Neural Architectures",
+    "post_type": "standard",
+    "word_count": 87,
+    "historical_author_tags": [
+      "Deep Learning"
+    ],
+    "suggested_tags": [
+      "Deep Learning"
+    ],
+    "model_scores": {
+      "Deep Learning": 0.899
+    },
+    "supporting_snippets": {
+      "Deep Learning": "PyTorch autograd builds dynamic computation graphs for backpropagation through neural networks."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Deep Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1455",
+    "published_at": "2026-01-17",
+    "title": "Tuning Gradient Boosted Trees and XGBoost on Tabular Data with Deep Learning and Natural Language Processing",
+    "post_type": "standard",
+    "word_count": 178,
+    "historical_author_tags": [
+      "Deep Learning",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "suggested_tags": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "model_scores": {
+      "Machine Learning": 0.915,
+      "Deep Learning": 0.819,
+      "Natural Language Processing": 0.72
+    },
+    "supporting_snippets": {
+      "Machine Learning": "Scikit learn pipelines prevent data leakage during k fold cross validation and scaling.",
+      "Deep Learning": "PyTorch autograd builds dynamic computation graphs for backpropagation through neural networks.",
+      "Natural Language Processing": "Subword tokenization handles rare morphological variants and out of vocabulary technical terms."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "post_id": "POST-1456",
+    "published_at": "2026-01-18",
+    "title": "Core Web Vitals and Bundle Splitting in Modern JavaScript: Zero-Trust API Gateways and Mutual TLS Encryption",
+    "post_type": "semantic_paraphrase",
+    "word_count": 115,
+    "historical_author_tags": [
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Frontend Web Development",
+      "Application Security"
+    ],
+    "model_scores": {
+      "Frontend Web Development": 0.945,
+      "Application Security": 0.774
+    },
+    "supporting_snippets": {
+      "Frontend Web Development": "Virtual environments and pip dependencies should be pinned for reproducible Python builds.",
+      "Application Security": "Tree shaking and dynamic route level code splitting shrink initial bundle payloads for faster First Contentful Paint."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Application Security",
+      "Frontend Web Development"
+    ]
+  },
+  {
+    "post_id": "POST-1457",
+    "published_at": "2026-01-19",
+    "title": "Type-Safe Custom Hooks and Context Architecture in TypeScript",
+    "post_type": "standard",
+    "word_count": 83,
+    "historical_author_tags": [
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Frontend Web Development",
+      "Python"
+    ],
+    "model_scores": {
+      "Frontend Web Development": 0.933,
+      "Python": 0.367
+    },
+    "supporting_snippets": {
+      "Frontend Web Development": "Semantic HTML elements and ARIA attributes ensure keyboard navigation accessibility.",
+      "Python": "CPython uses reference counting alongside a cyclic garbage collector to manage object lifecycles."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Frontend Web Development",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1458",
+    "published_at": "2026-01-20",
+    "title": "Mastering Python Generators and Async Iterators: Building Hybrid Keyword and Semantic Search Pipelines",
+    "post_type": "long_multi_topic",
+    "word_count": 237,
+    "historical_author_tags": [
+      "Natural Language Processing",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "Natural Language Processing"
+    ],
+    "model_scores": {
+      "Python": 0.961,
+      "Natural Language Processing": 0.68
+    },
+    "supporting_snippets": {
+      "Python": "CPython uses reference counting alongside a cyclic garbage collector to manage object lifecycles.",
+      "Natural Language Processing": "Named Entity Recognition (NER) extracts structured organizations, locations, and product mentions from text."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "post_id": "POST-1459",
+    "published_at": "2026-01-21",
+    "title": "Context Managers and Decorators in Modern Python 3 with API Development and Application Security",
+    "post_type": "standard",
+    "word_count": 188,
+    "historical_author_tags": [
+      "API Development",
+      "Application Security",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "Application Security",
+      "API Development"
+    ],
+    "model_scores": {
+      "Python": 0.948,
+      "Application Security": 0.937,
+      "API Development": 0.923
+    },
+    "supporting_snippets": {
+      "Python": "Virtual environments and pip dependencies should be pinned for reproducible Python builds.",
+      "Application Security": "OAuth2 authorization code flows with PKCE protect access tokens in public web and mobile clients.",
+      "API Development": "RESTful endpoints use standard HTTP status codes and cursor based pagination for large collections."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "Application Security",
+      "API Development"
+    ]
+  },
+  {
+    "post_id": "POST-1460",
+    "published_at": "2026-01-22",
+    "title": "Secure Password Hashing with Argon2 and CSRF Defense",
+    "post_type": "semantic_paraphrase",
+    "word_count": 75,
+    "historical_author_tags": [
+      "Application Security"
+    ],
+    "suggested_tags": [
+      "Application Security"
+    ],
+    "model_scores": {
+      "Application Security": 0.516
+    },
+    "supporting_snippets": {
+      "Application Security": "Zero trust mutual TLS handshakes and least privilege role permissions block lateral movement after perimeter compromise."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Application Security"
+    ]
+  },
+  {
+    "post_id": "POST-1461",
+    "published_at": "2026-01-23",
+    "title": "Data Warehouse Modeling with dbt and Dimensional Schemas: Cross-Validation Strategies for Imbalanced Classification",
+    "post_type": "standard",
+    "word_count": 136,
+    "historical_author_tags": [
+      "Data Engineering",
+      "Machine Learning"
+    ],
+    "suggested_tags": [
+      "Machine Learning",
+      "Data Engineering"
+    ],
+    "model_scores": {
+      "Machine Learning": 0.847,
+      "Data Engineering": 0.75
+    },
+    "supporting_snippets": {
+      "Machine Learning": "Feature importance and permutation tests reveal which predictors drive random forest splits.",
+      "Data Engineering": "Kafka event streams decouple data producers from downstream data warehouse consumers."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Machine Learning",
+      "Data Engineering"
+    ]
+  },
+  {
+    "post_id": "POST-1462",
+    "published_at": "2026-01-23",
+    "title": "Context Managers and Decorators in Modern Python 3: Domain-Specific Named Entity Recognition and Tokenization",
+    "post_type": "standard",
+    "word_count": 140,
+    "historical_author_tags": [
+      "Natural Language Processing",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Natural Language Processing",
+      "Python"
+    ],
+    "model_scores": {
+      "Natural Language Processing": 0.926,
+      "Python": 0.899
+    },
+    "supporting_snippets": {
+      "Natural Language Processing": "Named Entity Recognition (NER) extracts structured organizations, locations, and product mentions from text.",
+      "Python": "Type hints with typing and mypy help catch bugs before runtime in large Python codebases."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Natural Language Processing",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1463",
+    "published_at": "2026-01-24",
+    "title": "Comparing RESTful Endpoints and GraphQL Resolvers",
+    "post_type": "standard",
+    "word_count": 92,
+    "historical_author_tags": [
+      "API Development"
+    ],
+    "suggested_tags": [
+      "API Development"
+    ],
+    "model_scores": {
+      "API Development": 0.969
+    },
+    "supporting_snippets": {
+      "API Development": "Swagger UI interactive documentation helps teams integrate with backend API routes."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "API Development"
+    ]
+  },
+  {
+    "post_id": "POST-1464",
+    "published_at": "2026-01-25",
+    "title": "Contrastive Representation Learning and Dense Vector Embeddings: Evaluating Topic Models and Document Similarity Metrics",
+    "post_type": "semantic_paraphrase",
+    "word_count": 109,
+    "historical_author_tags": [
+      "Deep Learning"
+    ],
+    "suggested_tags": [
+      "Natural Language Processing",
+      "Deep Learning"
+    ],
+    "model_scores": {
+      "Natural Language Processing": 0.908,
+      "Deep Learning": 0.903
+    },
+    "supporting_snippets": {
+      "Natural Language Processing": "Byte pair encoding splits rare compound words into frequent morphemes to bound vocabulary dimensionality.",
+      "Deep Learning": "Low rank adapters freeze pretrained backbone weights while optimizing small bottleneck matrices during transfer learning."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Deep Learning",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "post_id": "POST-1465",
+    "published_at": "2026-01-26",
+    "title": "Streaming Event Architectures with Apache Kafka and Spark: Infrastructure as Code Using Terraform Modules on AWS",
+    "post_type": "long_multi_topic",
+    "word_count": 228,
+    "historical_author_tags": [
+      "Cloud & DevOps",
+      "Data Engineering"
+    ],
+    "suggested_tags": [
+      "Data Engineering",
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "Data Engineering": 0.977,
+      "Cloud & DevOps": 0.947
+    },
+    "supporting_snippets": {
+      "Data Engineering": "Apache Airflow DAGs schedule and monitor complex ETL workflows with retry policies and SLA alerts.",
+      "Cloud & DevOps": "Terraform state files track cloud infrastructure resources declaratively across AWS environments."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Data Engineering",
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1466",
+    "published_at": "2026-01-27",
+    "title": "Streaming Event Architectures with Apache Kafka and Spark: Infrastructure as Code Using Terraform Modules on AWS",
+    "post_type": "republished_duplicate",
+    "word_count": 234,
+    "historical_author_tags": [
+      "Cloud & DevOps",
+      "Data Engineering"
+    ],
+    "suggested_tags": [
+      "Data Engineering",
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "Data Engineering": 0.975,
+      "Cloud & DevOps": 0.946
+    },
+    "supporting_snippets": {
+      "Data Engineering": "Apache Airflow DAGs schedule and monitor complex ETL workflows with retry policies and SLA alerts.",
+      "Cloud & DevOps": "Terraform state files track cloud infrastructure resources declaratively across AWS environments."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Data Engineering",
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1467",
+    "published_at": "2026-01-27",
+    "title": "Idempotent Backfills in Distributed Data Pipelines",
+    "post_type": "standard",
+    "word_count": 81,
+    "historical_author_tags": [
+      "Data Engineering"
+    ],
+    "suggested_tags": [
+      "Data Engineering"
+    ],
+    "model_scores": {
+      "Data Engineering": 0.985
+    },
+    "supporting_snippets": {
+      "Data Engineering": "Apache Airflow DAGs schedule and monitor complex ETL workflows with retry policies and SLA alerts."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Data Engineering"
+    ]
+  },
+  {
+    "post_id": "POST-1468",
+    "published_at": "2026-01-28",
+    "title": "Responsive Layout Engineering with Modern CSS Variables: Auditing Web Applications Against OWASP Top 10 Vulnerabilities",
+    "post_type": "standard",
+    "word_count": 137,
+    "historical_author_tags": [
+      "Application Security",
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Application Security",
+      "Frontend Web Development"
+    ],
+    "model_scores": {
+      "Application Security": 0.932,
+      "Frontend Web Development": 0.903
+    },
+    "supporting_snippets": {
+      "Application Security": "OAuth2 authorization code flows with PKCE protect access tokens in public web and mobile clients.",
+      "Frontend Web Development": "TypeScript strict mode catches null pointer errors across complex frontend UI component trees."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Application Security",
+      "Frontend Web Development"
+    ]
+  },
+  {
+    "post_id": "POST-1469",
+    "published_at": "2026-01-29",
+    "title": "Mastering Python Generators and Async Iterators with Machine Learning and MLOps",
+    "post_type": "semantic_paraphrase",
+    "word_count": 171,
+    "historical_author_tags": [
+      "MLOps",
+      "Machine Learning",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "MLOps",
+      "Machine Learning"
+    ],
+    "model_scores": {
+      "Python": 0.937,
+      "MLOps": 0.752,
+      "Machine Learning": 0.71
+    },
+    "supporting_snippets": {
+      "Python": "Using Python generators and the yield keyword reduces memory overhead when streaming large files.",
+      "MLOps": "Feature stores guarantee that online inference uses the exact same transformations as offline training.",
+      "Machine Learning": "Ensemble decision trees partition tabular feature spaces recursively to minimize impurity and bias variance trade offs."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "MLOps",
+      "Machine Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1470",
+    "published_at": "2026-01-30",
+    "title": "Core Web Vitals and Bundle Splitting in Modern JavaScript",
+    "post_type": "standard",
+    "word_count": 86,
+    "historical_author_tags": [
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Frontend Web Development"
+    ],
+    "model_scores": {
+      "Frontend Web Development": 0.98
+    },
+    "supporting_snippets": {
+      "Frontend Web Development": "React memoization hooks prevent unnecessary DOM re renders when parent component state updates."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Frontend Web Development"
+    ]
+  },
+  {
+    "post_id": "POST-1471",
+    "published_at": "2026-01-31",
+    "title": "Memory Management and Garbage Collection in CPython with Machine Learning and MLOps",
+    "post_type": "standard",
+    "word_count": 169,
+    "historical_author_tags": [
+      "MLOps",
+      "Machine Learning",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python",
+      "MLOps",
+      "Machine Learning"
+    ],
+    "model_scores": {
+      "Python": 0.942,
+      "MLOps": 0.853,
+      "Machine Learning": 0.838
+    },
+    "supporting_snippets": {
+      "Python": "CPython uses reference counting alongside a cyclic garbage collector to manage object lifecycles.",
+      "MLOps": "Shadow deployments test candidate models on live traffic without exposing predictions to end users.",
+      "Machine Learning": "Scikit learn pipelines prevent data leakage during k fold cross validation and scaling."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Python",
+      "MLOps",
+      "Machine Learning"
+    ]
+  },
+  {
+    "post_id": "POST-1479",
+    "published_at": "2026-01-22",
+    "title": "Quantum Gate Circuits and Superposition Fundamentals (Part 8)",
+    "post_type": "niche_topic",
+    "word_count": 82,
+    "historical_author_tags": [
+      "Python",
+      "Quantum Computing"
+    ],
+    "suggested_tags": [
+      "Quantum Computing",
+      "Python"
+    ],
+    "model_scores": {
+      "Quantum Computing": 0.988,
+      "Python": 0.909
+    },
+    "supporting_snippets": {
+      "Quantum Computing": "Hadamard and CNOT gates entangle two qubits to construct Bell states in Qiskit.",
+      "Python": "Type hints with typing and mypy help catch bugs before runtime in large Python codebases."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "Quantum Computing",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1487",
+    "published_at": "2026-01-22",
+    "title": "Compiling Rust Audio and Image Filters to WebAssembly (Part 8)",
+    "post_type": "niche_topic",
+    "word_count": 91,
+    "historical_author_tags": [
+      "Python",
+      "WebAssembly"
+    ],
+    "suggested_tags": [
+      "WebAssembly",
+      "Python"
+    ],
+    "model_scores": {
+      "WebAssembly": 0.988,
+      "Python": 0.929
+    },
+    "supporting_snippets": {
+      "WebAssembly": "WebAssembly bytecode executes at near native speed inside a memory safe browser sandbox.",
+      "Python": "Using Python generators and the yield keyword reduces memory overhead when streaming large files."
+    },
+    "review_status": "Auto-Approved (High Confidence)",
+    "final_editor_approved_tags": [
+      "WebAssembly",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1488",
+    "published_at": "2025-12-26",
+    "title": "WIP: Python FastAPI Notes",
+    "post_type": "short_draft",
+    "word_count": 9,
+    "historical_author_tags": [
+      "API Development",
+      "Python"
+    ],
+    "suggested_tags": [
+      "Python"
+    ],
+    "model_scores": {
+      "Python": 0.881
+    },
+    "supporting_snippets": {
+      "Python": "TODO: write tutorial on endpoints."
+    },
+    "review_status": "Needs Editor Review (Short Draft < 15 words)",
+    "final_editor_approved_tags": [
+      "API Development",
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1489",
+    "published_at": "2026-01-31",
+    "title": "Draft: Kubernetes Upgrade",
+    "post_type": "short_draft",
+    "word_count": 8,
+    "historical_author_tags": [
+      "Cloud & DevOps"
+    ],
+    "suggested_tags": [
+      "Cloud & DevOps"
+    ],
+    "model_scores": {
+      "Cloud & DevOps": 0.932
+    },
+    "supporting_snippets": {
+      "Cloud & DevOps": "Notes from today's cluster migration."
+    },
+    "review_status": "Needs Editor Review (Short Draft < 15 words)",
+    "final_editor_approved_tags": [
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1490",
+    "published_at": "2026-01-18",
+    "title": "Untitled Security Memo",
+    "post_type": "short_draft",
+    "word_count": 7,
+    "historical_author_tags": [
+      "Application Security"
+    ],
+    "suggested_tags": [
+      "Application Security"
+    ],
+    "model_scores": {
+      "Application Security": 0.703
+    },
+    "supporting_snippets": {
+      "Application Security": "Check JWT expiry settings."
+    },
+    "review_status": "Needs Editor Review (Short Draft < 15 words)",
+    "final_editor_approved_tags": [
+      "Application Security"
+    ]
+  },
+  {
+    "post_id": "POST-1492",
+    "published_at": "2026-01-23",
+    "title": "React Hook Bug",
+    "post_type": "short_draft",
+    "word_count": 7,
+    "historical_author_tags": [
+      "Frontend Web Development"
+    ],
+    "suggested_tags": [
+      "Frontend Web Development"
+    ],
+    "model_scores": {
+      "Frontend Web Development": 0.914
+    },
+    "supporting_snippets": {
+      "Frontend Web Development": "Fix useEffect dependency array."
+    },
+    "review_status": "Needs Editor Review (Short Draft < 15 words)",
+    "final_editor_approved_tags": [
+      "Frontend Web Development"
+    ]
+  },
+  {
+    "post_id": "POST-1493",
+    "published_at": "2025-12-31",
+    "title": "SQL Index Note",
+    "post_type": "short_draft",
+    "word_count": 9,
+    "historical_author_tags": [
+      "Data Engineering"
+    ],
+    "suggested_tags": [],
+    "model_scores": {},
+    "supporting_snippets": {},
+    "review_status": "Needs Editor Review (Short Draft < 15 words)",
+    "final_editor_approved_tags": [
+      "Data Engineering"
+    ]
+  },
+  {
+    "post_id": "POST-1494",
+    "published_at": "2026-01-29",
+    "title": "Embeddings test",
+    "post_type": "short_draft",
+    "word_count": 6,
+    "historical_author_tags": [
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "suggested_tags": [
+      "Deep Learning"
+    ],
+    "model_scores": {
+      "Deep Learning": 0.812
+    },
+    "supporting_snippets": {
+      "Deep Learning": "Testing sentence transformer latency."
+    },
+    "review_status": "Needs Editor Review (Short Draft < 15 words)",
+    "final_editor_approved_tags": [
+      "Deep Learning",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "post_id": "POST-1495",
+    "published_at": "2025-12-23",
+    "title": "MLflow setup",
+    "post_type": "short_draft",
+    "word_count": 7,
+    "historical_author_tags": [
+      "MLOps"
+    ],
+    "suggested_tags": [
+      "MLOps"
+    ],
+    "model_scores": {
+      "MLOps": 0.685
+    },
+    "supporting_snippets": {
+      "MLOps": "Track model artifacts in S3."
+    },
+    "review_status": "Needs Editor Review (Short Draft < 15 words)",
+    "final_editor_approved_tags": [
+      "MLOps"
+    ]
+  },
+  {
+    "post_id": "POST-1496",
+    "published_at": "2026-01-26",
+    "title": "Empty Draft Placeholder",
+    "post_type": "short_draft",
+    "word_count": 5,
+    "historical_author_tags": [
+      "Python"
+    ],
+    "suggested_tags": [],
+    "model_scores": {},
+    "supporting_snippets": {},
+    "review_status": "Needs Editor Review (Short Draft < 15 words)",
+    "final_editor_approved_tags": [
+      "Python"
+    ]
+  },
+  {
+    "post_id": "POST-1497",
+    "published_at": "2025-12-21",
+    "title": "API Gateway Draft",
+    "post_type": "short_draft",
+    "word_count": 7,
+    "historical_author_tags": [
+      "API Development",
+      "Cloud & DevOps"
+    ],
+    "suggested_tags": [
+      "API Development",
+      "Application Security"
+    ],
+    "model_scores": {
+      "API Development": 0.863,
+      "Application Security": 0.325
+    },
+    "supporting_snippets": {
+      "API Development": "Rate limit configuration notes.",
+      "Application Security": "Rate limit configuration notes."
+    },
+    "review_status": "Needs Editor Review (Short Draft < 15 words)",
+    "final_editor_approved_tags": [
+      "API Development",
+      "Application Security",
+      "Cloud & DevOps"
+    ]
+  },
+  {
+    "post_id": "POST-1498",
+    "published_at": "2026-02-02",
+    "title": "NLP Tokenizer",
+    "post_type": "short_draft",
+    "word_count": 6,
+    "historical_author_tags": [
+      "Natural Language Processing"
+    ],
+    "suggested_tags": [
+      "Natural Language Processing",
+      "Deep Learning"
+    ],
+    "model_scores": {
+      "Natural Language Processing": 0.985,
+      "Deep Learning": 0.522
+    },
+    "supporting_snippets": {
+      "Natural Language Processing": "Check subword vocabulary size.",
+      "Deep Learning": "Check subword vocabulary size."
+    },
+    "review_status": "Needs Editor Review (Short Draft < 15 words)",
+    "final_editor_approved_tags": [
+      "Deep Learning",
+      "Natural Language Processing"
+    ]
+  }
+]
